@@ -10,7 +10,7 @@
 --------------
 Employee Data
 ---------------
-@relation employee
+@relation employee 
 @attribute name {x,y,z,a,b}
 @attribute id numeric
 @attribute salary {low,medium,high}
